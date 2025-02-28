@@ -7,9 +7,9 @@ An ArcGIS map visualizing transportation methods used by patients leaving medica
 <br><br>
 
 ## Context
-This project examines transportation patterns of patients leaving healthcare facilities in New York City during the COVID-19 PAUSE order (March-April 2020). The aim is to understand mobility trends, particularly the risk zones that emerged from transit choices, which could have contributed to the spread of the virus. By integrating various data sources, including ridership information from NYC’s TLC and Todd Schneider, Uber ride data, and healthcare center locations in KMZ files, the analysis highlights subway stations, bus stops, bike lanes, and CitiBike risk zones. This map serves as an introductory exploration of post-discharge mobility, offering insights into how transportation choices around healthcare centers may have played a role in virus transmission during the pandemic. Limitations include the reliance on secondary data sources, such as ridership figures, and the absence of detailed patient-level information, which would provide a more granular understanding of individual behavior. 
+This project examines transportation patterns of patients leaving healthcare facilities in New York City during the COVID-19 PAUSE order (March-April 2020). The aim is to understand mobility trends, particularly the risk zones that emerged from transit choices, which could have contributed to the spread of the virus. By integrating various data sources, including ridership information from NYC’s TLC and Todd Schneider, Uber ride data, and healthcare center locations in KMZ files, the analysis highlights subway stations, bus stops, bike lanes, and CitiBike risk zones. This map serves as an introductory exploration of egress mobility, offering insights into how transportation choices around healthcare centers may have played a role in virus transmission during the pandemic. This project was an extension of the DETER project ([See Publication Here](https://www.nature.com/articles/s41597-023-02692-0)) funded by the National Science Foundation. Data from the DETER project was implemented as KMZ files.
 
-<sup><sub>Word Count: 143 words</sub></sup>
+<sup><sub>Word Count: 142 words</sub></sup>
 <br><br>
 
 ## Results and Analysis
