@@ -20,7 +20,12 @@ The analysis provides a detailed view of transportation choices and potential ri
 
 ## Preview
 ![ArcGIS StoryMaps](NYC-COVID19-Transit-RiskZones.png)
-
+- **Blue Heat Map**: Nearest subway stations based on ridership
+- **Pink Heat Map**: Nearest bus stops based on ridership
+- **Green Area**: Potential CitiBike risk zone (average user travel distance: 2.6 miles)
+- **Colorful Lines**: Subway routes
+- **Black Lines**: Bike lanes
+- **Purple Zone**: 13-minute Uber rides (average duration during April 2020, 5.41 miles, as reported by Sherpashare)
 <br><br>
 
 ## Software Used
