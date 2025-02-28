@@ -1,4 +1,4 @@
-# NYC-COVID19-Transit-RiskZones
+# 🏥 NYC-COVID19-Transit-RiskZones
 An ArcGIS map visualizing transportation methods used by patients leaving medical facilities in NYC during the COVID-19 PAUSE order, highlighting potential risk zones based on transit ridership and mobility patterns.
 <br><br>
 
@@ -13,9 +13,9 @@ This project examines transportation patterns of patients leaving healthcare fac
 <br><br>
 
 ## Results and Analysis
-The analysis provides a detailed view of transportation choices and potential risk zones around healthcare centers in NYC during the peak of the COVID-19 pandemic. The map highlights areas with the highest subway and bus ridership, showing significant concentration around key healthcare centers, which could indicate higher patient mobility in those regions. The purple zones represent 13-minute Uber rides, with a distance of 5.41 miles, reflecting common travel durations for those leaving medical facilities. These zones help pinpoint areas where patients may have been more likely to use rideshare services, increasing the potential for virus transmission in transit. The map also identifies CitiBike risk zones, calculated based on the average travel distance of 2.6 miles per user, signaling areas where cycling could present risks to individuals exposed to the virus. Subway routes and bike lanes are mapped to further contextualize transportation choices. While these findings offer a useful overview, they are limited by the use of secondary data sources and the inability to track individual patient journeys, leaving room for more detailed, patient-level analysis in future studies.
+The analysis provides a detailed view of transportation choices and potential risk zones around healthcare centers in NYC during the peak of the COVID-19 pandemic. The map highlights areas with the highest subway and bus ridership, showing significant concentration around key healthcare centers, which could indicate higher patient mobility in those regions. The purple zones represent 13-minute Uber rides, with a distance of 5.41 miles, reflecting common travel durations for those leaving medical facilities. These zones help pinpoint areas where patients may have been more likely to use rideshare services, increasing the potential for virus transmission in transit. The map also identifies CitiBike risk zones, calculated based on the average travel distance of 2.6 miles per user, signaling areas where cycling could present risks to individuals exposed to the virus. Subway routes and bike lanes are mapped to further contextualize transportation choices. While these findings offer a useful overview, they are limited by the use of secondary data sources and the inability to track individual patient journeys. Overall however, this project helped visualized the potential distances in which subjects could have travelled--this in itself serves as a good starting point for contextualizing disease spread in the scope of public transportation.
 
-<sup><sub>Word Count: 177 words</sub></sup>
+<sup><sub>Word Count: 200 words</sub></sup>
 <br><br>
 
 ## Preview
